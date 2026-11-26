@@ -133,5 +133,4 @@ void loop() {
 
 ---
 
-- **A `.gitignore`** for Arduino/PlatformIO, or
-- **A short repo description + topics** to paste into GitHub's "About" section (helps discoverability)?
+
