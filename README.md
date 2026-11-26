@@ -97,11 +97,11 @@ void loop() {
 
 [Project Documentation (PDF)](docs/SC3610%20reverse%20engineering.pdf)
 
-> The PDF contains detailed reverse engineering notes, pinout diagrams, circuit photos, and step-by-step methodology.
+> The PDF contains detailed reverse engineering notes, pinout diagrams, circuit photos, and step-by-step methodology use canva for vids.
 
 ## 🎥 Project Demo
 
-*(Link the Canva version or a video here.)*
+*(https://canva.link/iqmyz3xzq5s92ai)*
 
 ## 🧰 Technologies Used
 
@@ -133,8 +133,5 @@ void loop() {
 
 ---
 
-
-
-Want me to also give you:
 - **A `.gitignore`** for Arduino/PlatformIO, or
 - **A short repo description + topics** to paste into GitHub's "About" section (helps discoverability)?
