@@ -16,7 +16,7 @@ By keeping the original display circuitry, the project avoids 16 segment lines a
 
 ## 🎨 Documentation
 
-> 🎨 **Interactive Documentation:** [**🔴 View the Canva version 🔴**](https://canva.link/hcvckzcn1l8z89q)
+> 🎨 **Interactive Documentation:** [**🔴 View the Canva version 🔴**](https://canva.link/iqmyz3xzq5s92ai)
 > The Canva version is recommended because it includes the project videos and the full visual experience.
 
 ## 🛠️ What Was Built
@@ -95,7 +95,7 @@ void loop() {
 
 > **📄 Documentation:** The complete project documentation is provided as a PDF. For the best viewing experience, the **Canva version is recommended**, as it preserves the original layout, visuals, and interactive elements.
 
-[Project Documentation (PDF)](docs/SC3610%20reverse%20engineering.pdf)
+[Project Documentation (PDF)](reverse engineering SC3610 (3).pdf)
 
 > The PDF contains detailed reverse engineering notes, pinout diagrams, circuit photos, and step-by-step methodology use canva for vids.
 
